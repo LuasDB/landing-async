@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Peackoc y carpetas de VScode
+.vscode
